@@ -44,7 +44,8 @@ TAXII supports both push and pull messaging in all sharing models, including:
     </div>
   </div>
 </div> 
-  
+
+
 The [TAXII White Paper](http://taxiiproject.github.io/getting-started/whitepaper) explains why TAXII was developed, the problems TAXII solves, how TAXII solves those problems, and the sharing groups that will benefit from using TAXII. The whitepaper also goes into detail on the individual components of TAXII and how they fit together.
 
 ### TAXII Community
